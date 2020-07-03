@@ -1,9 +1,10 @@
-# CS231
+# CS231-Inforamtion
 
-Class: CS231
-Created: Apr 2, 2020 9:38 AM
-Materials: http://cs231n.stanford.edu/
-Rep1: No
+Note that thsi rep is used to trak my self-learning.
+
+- Class: CS231
+- Created: Apr 2, 2020 9:38 AM
+- Materials: http://cs231n.stanford.edu/
 
 # 1. Syllabus-2020 spring
 
