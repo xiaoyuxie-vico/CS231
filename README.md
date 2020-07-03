@@ -1,4 +1,4 @@
-# CS231-Inforamtion
+# CS231
 
 Note that thsi rep is used to trak my self-learning.
 
