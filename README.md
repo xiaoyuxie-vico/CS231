@@ -8,13 +8,6 @@ Note that thsi rep is used to trak my self-learning.
 
 # Notes
 
-<<<<<<< HEAD
 [1. Image Classification](./1. Image Classification.md)
-
 [2. Linear classification.md](./2. Linear classification.md)
-=======
-[1. Image Classification](1. Image Classification.md)
-
-[2. Linear classification.md](2. Linear classification.md)
->>>>>>> 37e66d5db5096cfab166a8ff108be39313d3e86f
 
